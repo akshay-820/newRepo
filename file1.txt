@@ -1,3 +1,4 @@
 this is file1.txt
 fixed a bugO
 
+Added a new line in file1.txt
