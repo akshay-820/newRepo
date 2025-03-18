@@ -1,0 +1,17 @@
+[33mcommit 5fff930f374a173a2018b22bcce8a04c4aad8d5d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Aks <akshay200583@gmail.com>
+Date:   Tue Mar 18 19:40:59 2025 +0530
+
+    Fixed a bug in file2 mainbranch
+
+[33mcommit 2f964217d83579789554417bd718a5c763d281d6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Aks <akshay200583@gmail.com>
+Date:   Tue Mar 18 19:40:07 2025 +0530
+
+    Fixed a bug in file1 mainbranch
+
+[33mcommit 62fb2226c67905675be396b147b27767fb760a95[m
+Author: Aks <akshay200583@gmail.com>
+Date:   Tue Mar 18 19:34:41 2025 +0530
+
+    Added file1 and file2.txt
