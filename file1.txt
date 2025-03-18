@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-this is file1.txt
-fixed a bugO
-
-Added a new line in file1.txt
-=======
 added a new feature in file1.txt
 
->>>>>>> newfeature
